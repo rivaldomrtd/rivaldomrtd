@@ -22,7 +22,7 @@
 
 [![Github](https://img.shields.io/badge/Tiktok-valdooos-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@valdooos)
 
-# TOP TOOLS WEBSITES AND LANGUEGES I LOVE :
+# TOP TOOLS AND LANGUEGES :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -59,12 +59,10 @@
 <img align="left" alt="git bash" width="26px" src="https://img2.pngdownload.id/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" />
 
 ##
-
 ##
-
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=p5js_Grafik_Primitif_2D&theme=tokyonight)](https://github.com/rivaldomrtd/p5js_Grafik_Primitif_2D)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Website_CRUD-4 &theme=tokyonight)](https://github.com/rivaldomrtd/Website_CRUD-4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&Dijkstra.py&theme=tokyonight)](https://github.com/rivaldomrtd/Dijkstra.py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Website_CRUD-4&theme=tokyonight)](https://github.com/rivaldomrtd/Website_CRUD-4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Dijkstra.py&theme=tokyonight)](https://github.com/rivaldomrtd/Dijkstra.py)
 
