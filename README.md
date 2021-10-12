@@ -64,4 +64,7 @@
 
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=rivaldomrtd.py&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=p5js_Grafik_Primitif_2D&theme=tokyonight)](https://github.com/rivaldomrtd/p5js_Grafik_Primitif_2D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Website_CRUD-4 &theme=tokyonight)](https://github.com/rivaldomrtd/Website_CRUD-4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&Dijkstra.py&theme=tokyonight)](https://github.com/rivaldomrtd/Dijkstra.py)
+
