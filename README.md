@@ -65,6 +65,3 @@
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=rivaldomrtd.py&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=qurxin&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=JOKER-burtal-force&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=rivaldomrtd.txt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
