@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/TELEGRAM-rivaldomrtd-white?style=for-the-badge&logo=telegram)](https://t.me/rivaldomrtd)
 [![Github](https://img.shields.io/badge/Twitter-rivaldo-red?style=for-the-badge&logo=twitter)](https://twitter.com/MrtdRivaldo)
 
-<h1> WHO AM I :&#9748: </h1>
+<h1> WHO AM I &#9748 </h1>
 
 ### My name is Rivaldo form Surabaya.
 
