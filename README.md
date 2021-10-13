@@ -63,7 +63,6 @@
 ##
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&layout=compact&theme=outrun)](https://en.wikipedia.org/wiki/Programming_language)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username=rivaldomrtd&layout=compact)](https://github.com/rivaldomrtd)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=p5js_Grafik_Primitif_2D&theme=outrun)](https://github.com/rivaldomrtd/p5js_Grafik_Primitif_2D)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Website_CRUD-4&theme=outrun)](https://github.com/rivaldomrtd/Website_CRUD-4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Dijkstra.py&theme=outrun)](https://github.com/rivaldomrtd/Dijkstra.py)
