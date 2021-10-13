@@ -6,15 +6,15 @@
 [![Github](https://img.shields.io/badge/TELEGRAM-rivaldomrtd-white?style=for-the-badge&logo=telegram)](https://t.me/rivaldomrtd)
 [![Github](https://img.shields.io/badge/Twitter-rivaldo-red?style=for-the-badge&logo=twitter)](https://twitter.com/MrtdRivaldo)
 
-<h1> WHO AM I &#9748 </h1>
+<h1> Vald00s &#9748 </h1>
 
-### My name is Rivaldo form Surabaya.
+<h3> My name is Rivaldo form Surabaya.</h3>
 
-### I have been actively writing about light and fun things since college. I am an introverted, inquiring person, who loves reading.
+<h3>I have been actively writing about light and fun things since college. I am an introverted, inquiring person, who loves reading.</h3>
 
-### My goals in this year is to make more freinds, contribute more, and achive my dreams
+<h3> My goals in this year is to make more freinds, contribute more, and achive my dreams</h3>
 
-### Fun fact about me I love you and you love someone'
+<h3> Fun fact about me I love you and you love someone'</h3>
 
 ---
 
@@ -32,7 +32,7 @@
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
+<img align="left" alt="php" width="26px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png" />
 
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
@@ -40,9 +40,9 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Dart" width="26px" src="https://img2.pngdownload.id/20180728/rrq/kisspng-dart-logo-programming-language-computer-programmin-python-stickers-5b5cab4fa0e594.4252391015327998236591.jpg" />
+<img align="left" alt="Dart" width="26px" src="https://image.pngaaa.com/400/23400-middle.png" />
 
-<img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png" />
+<img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" />
 
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter.png" />
 
