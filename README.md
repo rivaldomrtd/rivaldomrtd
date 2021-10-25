@@ -33,15 +33,7 @@
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="php" width="26px" src="https://e7.pngegg.com/pngimages/906/282/png-clipart-logo-computer-icons-php-wm-logo-text-label.png" />
-
-<img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
-<img align="left" alt="C" width="26px" src="https://img2.pngdownload.id/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" />
-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Dart" width="26px" src="https://image.pngaaa.com/400/23400-middle.png" />
 
 <img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" />
 
@@ -56,8 +48,6 @@
 <img align="left" alt="android" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
 <img align="left" alt="photoshop" width="26px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
-
-<img align="left" alt="git bash" width="26px" src="https://img2.pngdownload.id/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg" />
 
 ##
 ##
