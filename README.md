@@ -41,10 +41,6 @@
 
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 
-<img align="left" alt="xamp" width="26px" src="https://w7.pngwing.com/pngs/369/32/png-transparent-xampp-php-computer-servers-computer-software-localhost-others-text-rectangle-orange-thumbnail.png" />
-
-<img align="left" alt="sql" width="26px" src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" />
-
 <img align="left" alt="android" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 
 <img align="left" alt="photoshop" width="26px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
