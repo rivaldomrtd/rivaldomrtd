@@ -46,6 +46,7 @@
 <img align="left" alt="photoshop" width="26px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
 
 
+
 ##
 ##
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=gotham)
