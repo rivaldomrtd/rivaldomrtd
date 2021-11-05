@@ -45,7 +45,7 @@
 
 <img align="left" alt="photoshop" width="26px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
 
-##
+
 ##
 ![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&layout=compact&theme=gotham)](https://en.wikipedia.org/wiki/Programming_language)
