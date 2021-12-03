@@ -8,13 +8,7 @@
 
 <h1> Vald00s &#9748 </h1>
 
-### My name is Rivaldo form Surabaya.</h3>
-
-### I have been actively writing about light and fun things since college. I am an introverted, inquiring person, who loves reading.</h3>
-
-### My goals in this year is to make more freinds, contribute more, and achive my dreams</h3>
-
-### Fun fact about me I love you and you love someone'</h3>
+### My name is Rivaldo.</h3>
 
 ---
 
