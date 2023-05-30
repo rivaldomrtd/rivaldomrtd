@@ -14,7 +14,7 @@
 
 ## Check my tiktok
 
-[![Github](https://img.shields.io/badge/Tiktok-valdooos-yellow?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@valdooos)
+[![Github](https://img.shields.io/badge/Tiktok-valdooos-yellow?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/@rivaldomartadinata)
 <p align="center">
  <h1> TOP TOOLS AND LANGUEGES : </h1>
 </p>
