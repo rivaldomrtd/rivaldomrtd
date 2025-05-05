@@ -3,7 +3,6 @@
 </p>
 
 [![Github](https://img.shields.io/badge/Facebook-rivaldo-green?style=for-the-badge&logo=facebook)](https://facebook.com/)
-[![Github](https://img.shields.io/badge/TELEGRAM-rivaldomrtd-white?style=for-the-badge&logo=telegram)](https://t.me/rivaldomrtd)
 [![Github](https://img.shields.io/badge/Twitter-rivaldo-red?style=for-the-badge&logo=twitter)](https://twitter.com/MrtdRivaldo)
 
 <h1> Vald00s &#9748 </h1>
