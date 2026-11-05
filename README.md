@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Rivaldo%20Marta%20Dinata&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20useful%20things%20for%20the%20web&descAlignY=60&descSize=15" width="100%" alt="Animated gradient header introducing Rivaldo Marta Dinata" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Turning+ideas+into+web+experiences;Exploring+React%2C+TypeScript%2C+and+more;Learning+by+building+real+projects)](https://github.com/rivaldomrtd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=55&lines=I+build+for+the+web+%F0%9F%8C%90;React+%2B+TypeScript+%E2%9C%A8;From+idea+to+interface+%F0%9F%9A%80;Always+learning.+Always+building.)](https://github.com/rivaldomrtd)
 
-Building web projects, exploring new technologies, and learning by making things that are useful.
+<img src="https://komarev.com/ghpvc/?username=rivaldomrtd&style=for-the-badge&color=312E81&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-rivaldomrtd-181717?style=for-the-badge&logo=github)](https://github.com/rivaldomrtd)
 [![TikTok](https://img.shields.io/badge/TikTok-%40rivaldomartadinata-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@rivaldomartadinata)
@@ -19,6 +19,12 @@ Building web projects, exploring new technologies, and learning by making things
 - 🌱 Always learning through real projects and experimentation.
 - 🤝 Open to collaboration, feedback, and interesting ideas.
 
+<details>
+  <summary>✨ A little more about what I do</summary>
+  <br />
+  I enjoy exploring the full process of building for the web: shaping an idea, creating the interface, and connecting it to useful functionality. My GitHub is where I share that journey and keep learning.
+</details>
+
 ## Technologies I work with
 
 <p>
@@ -32,15 +38,7 @@ Building web projects, exploring new technologies, and learning by making things
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-## Selected projects
-
-| Project | What it is |
-| --- | --- |
-| [Portfolio React](https://github.com/rivaldomrtd/portofolio-react) | A personal portfolio built with React and TypeScript. |
-| [Website E-Commerce](https://github.com/rivaldomrtd/Website_E-Commerce) | An e-commerce web project. |
-| [Laravel ImageUpload Vue](https://github.com/rivaldomrtd/Laravel_ImageUpload_Vue) | An image-upload project combining Laravel and Vue. |
-
-## GitHub at a glance
+## My GitHub activity
 
 <div align="center">
 
@@ -56,5 +54,7 @@ Building web projects, exploring new technologies, and learning by making things
 ---
 
 <div align="center">
-  <sub>Thanks for visiting — explore my repositories and follow along as I build.</sub>
+  <a href="https://github.com/rivaldomrtd">Follow my journey on GitHub ↗</a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=110&section=footer" width="100%" alt="" />
 </div>
