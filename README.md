@@ -1,10 +1,10 @@
 <div align="center">
 
-# Rivaldo Marta Dinata
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=Rivaldo%20Marta%20Dinata&fontSize=38&fontColor=F8FAFC&fontAlignY=38&desc=Web%20Developer%20%7C%20Building%20useful%20things%20for%20the%20web&descAlignY=60&descSize=15" width="100%" alt="Animated gradient header introducing Rivaldo Marta Dinata" />
 
-### Web Developer · Building useful things for the web
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Turning+ideas+into+web+experiences;Exploring+React%2C+TypeScript%2C+and+more;Learning+by+building+real+projects)](https://github.com/rivaldomrtd)
 
-I build web projects, explore new technologies, and turn ideas into practical digital experiences.
+Building web projects, exploring new technologies, and learning by making things that are useful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rivaldomrtd-181717?style=for-the-badge&logo=github)](https://github.com/rivaldomrtd)
 [![TikTok](https://img.shields.io/badge/TikTok-%40rivaldomartadinata-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@rivaldomartadinata)
@@ -44,13 +44,17 @@ I build web projects, explore new technologies, and turn ideas into practical di
 
 <div align="center">
 
-[![Rivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&hide_border=true&theme=transparent)](https://github.com/rivaldomrtd)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&layout=compact&hide_border=true&theme=transparent)](https://github.com/rivaldomrtd)
+[![Rivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=818cf8)](https://github.com/rivaldomrtd)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9)](https://github.com/rivaldomrtd)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rivaldomrtd&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE)](https://github.com/rivaldomrtd)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rivaldomrtd&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=818cf8&area=true&hide_border=true)](https://github.com/rivaldomrtd)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Thanks for visiting. Take a look around my repositories and see what I'm building.</sub>
+  <sub>Thanks for visiting — explore my repositories and follow along as I build.</sub>
 </div>
