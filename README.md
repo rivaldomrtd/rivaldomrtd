@@ -1,48 +1,56 @@
-<p aligin="center">
- <img src="/3.png">
+<div align="center">
+
+# Rivaldo Marta Dinata
+
+### Web Developer · Building useful things for the web
+
+I build web projects, explore new technologies, and turn ideas into practical digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-rivaldomrtd-181717?style=for-the-badge&logo=github)](https://github.com/rivaldomrtd)
+[![TikTok](https://img.shields.io/badge/TikTok-%40rivaldomartadinata-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@rivaldomartadinata)
+
+</div>
+
+---
+
+## About
+
+- 💡 Interested in building web applications and connecting interfaces with useful features.
+- 🌱 Always learning through real projects and experimentation.
+- 🤝 Open to collaboration, feedback, and interesting ideas.
+
+## Technologies I work with
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-[![Github](https://img.shields.io/badge/Facebook-rivaldo-green?style=for-the-badge&logo=facebook)](https://facebook.com/)
+## Selected projects
 
-<h1> Vald00s &#9748 </h1>
+| Project | What it is |
+| --- | --- |
+| [Portfolio React](https://github.com/rivaldomrtd/portofolio-react) | A personal portfolio built with React and TypeScript. |
+| [Website E-Commerce](https://github.com/rivaldomrtd/Website_E-Commerce) | An e-commerce web project. |
+| [Laravel ImageUpload Vue](https://github.com/rivaldomrtd/Laravel_ImageUpload_Vue) | An image-upload project combining Laravel and Vue. |
 
-### My name is Rivaldo Marta Dinata.</h3>
+## GitHub at a glance
 
---
+<div align="center">
 
-## Check my tiktok
+[![Rivaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&hide_border=true&theme=transparent)](https://github.com/rivaldomrtd)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&layout=compact&hide_border=true&theme=transparent)](https://github.com/rivaldomrtd)
 
-[![Github](https://img.shields.io/badge/Tiktok-valdooos-yellow?style=for-the-badge&logo=Tiktok)](https://www.tiktok.com/@rivaldomartadinata)
-<p align="center">
- <h1> TOP TOOLS AND LANGUEGES : </h1>
-</p>
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+---
 
-<img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
-
-<img align="left" alt="css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
-
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="npm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" />
-
-<img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/png_logo_vector/flutter.png" />
-
-<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
-
-<img align="left" alt="android" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-
-<img align="left" alt="photoshop" width="26px" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" />
-- - -
-
-
-##
-##
-![rivaldomrtd's github stats](https://github-readme-stats.vercel.app/api?username=rivaldomrtd&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivaldomrtd&langs_count=10&layout=compact&theme=gotham)](https://en.wikipedia.org/wiki/Programming_language)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vald00s&repo=E-Commerce_Xendit&theme=gotham)](https://github.com/Vald00s)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rivaldomrtd&repo=Website_CRUD-4&theme=gotham)](https://github.com/rivaldomrtd/Website_CRUD-4)
-
+<div align="center">
+  <sub>Thanks for visiting. Take a look around my repositories and see what I'm building.</sub>
+</div>
